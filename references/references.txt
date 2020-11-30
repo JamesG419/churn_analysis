@@ -8,3 +8,5 @@ https://www.kaggle.com/dencizo/customer-churn-exploration/notebook
 https://www.analyticsvidhya.com/blog/2020/07/univariate-analysis-visualization-with-illustrations-in-python/
 https://conjointly.com/kb/descriptive-statistics/
 https://www.kaggle.com/sandipdatta/customer-churn-analysis
+https://towardsdatascience.com/churn-prediction-770d6cb582a5
+https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6
