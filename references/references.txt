@@ -1,0 +1,10 @@
+https://towardsdatascience.com/hands-on-predict-customer-churn-5c2a42806266
+https://towardsdatascience.com/churn-prediction-3a4a36c2129a
+https://randerson112358.medium.com/predict-customer-churn-using-python-machine-learning-b92f39685f4c
+https://planspace.org/20150423-forward_selection_with_statsmodels/
+https://www.datasklr.com/ols-least-squares-regression/variable-selection
+https://www.analyticsvidhya.com/blog/2020/03/what-is-multicollinearity/
+https://www.kaggle.com/dencizo/customer-churn-exploration/notebook
+https://www.analyticsvidhya.com/blog/2020/07/univariate-analysis-visualization-with-illustrations-in-python/
+https://conjointly.com/kb/descriptive-statistics/
+https://www.kaggle.com/sandipdatta/customer-churn-analysis
